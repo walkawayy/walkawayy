@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @walkawayy
+- 👀 I’m interested in programming in C++ and Python.
+- 🌱 I’m currently learning advanced C++ techniques
